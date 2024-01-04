@@ -1,7 +1,6 @@
 #  ALX Zero Day
 
 ghbfhnbn
-bvbnvnvbb b   b 
-vncvnvnvnbnvnnvnn
+bvbnvnvbb
 vnvnnbnbnnbnb
 nvnv
