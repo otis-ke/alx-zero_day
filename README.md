@@ -1,2 +1,2 @@
 #  ALX Zero Day
-cfjfnjcfxcv
+cf
