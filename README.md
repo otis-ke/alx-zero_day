@@ -1,1 +1,1 @@
-mcc#  ALX Zero Daym
+mcc#  ALX Zero Day
