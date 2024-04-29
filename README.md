@@ -1,2 +1,2 @@
 # ALX Zero Day 👋 0️⃣ 
-## day one line of code 2
+## day 1 line of code 2
